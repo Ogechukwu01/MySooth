@@ -308,7 +308,7 @@ fun MySootheAppPortrait() {
             color = Color(0xD47EB4)
         ) {
             Column {
-                HomeScreen(Modifier.weight(1f))
+                //HomeScreen(Modifier.weight(1f))
                 SootheBottomNavigation(modifier = Modifier.background(Color(0xD47EB4)))
             }
         }
